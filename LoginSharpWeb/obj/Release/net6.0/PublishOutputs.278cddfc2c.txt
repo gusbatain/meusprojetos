@@ -1,0 +1,7 @@
+D:\setup\estudos\Curso C#\LoginSharpWeb\LoginSharpWeb\obj\Release\net6.0\PubTmp\Out\LoginSharpWeb.exe
+D:\setup\estudos\Curso C#\LoginSharpWeb\LoginSharpWeb\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\setup\estudos\Curso C#\LoginSharpWeb\LoginSharpWeb\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\setup\estudos\Curso C#\LoginSharpWeb\LoginSharpWeb\obj\Release\net6.0\PubTmp\Out\LoginSharpWeb.dll
+D:\setup\estudos\Curso C#\LoginSharpWeb\LoginSharpWeb\obj\Release\net6.0\PubTmp\Out\LoginSharpWeb.deps.json
+D:\setup\estudos\Curso C#\LoginSharpWeb\LoginSharpWeb\obj\Release\net6.0\PubTmp\Out\LoginSharpWeb.runtimeconfig.json
+D:\setup\estudos\Curso C#\LoginSharpWeb\LoginSharpWeb\obj\Release\net6.0\PubTmp\Out\LoginSharpWeb.pdb
