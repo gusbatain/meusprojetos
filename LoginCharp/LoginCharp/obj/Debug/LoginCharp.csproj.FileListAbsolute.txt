@@ -1,0 +1,12 @@
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\bin\Debug\LoginCharp.exe.config
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\bin\Debug\LoginCharp.exe
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\bin\Debug\LoginCharp.pdb
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\obj\Debug\LoginCharp.csproj.AssemblyReference.cache
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\obj\Debug\LoginCharp.Form1.resources
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\obj\Debug\LoginCharp.Properties.Resources.resources
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\obj\Debug\LoginCharp.csproj.GenerateResource.cache
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\obj\Debug\LoginCharp.csproj.CoreCompileInputs.cache
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\obj\Debug\LoginCharp.exe
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\obj\Debug\LoginCharp.pdb
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\obj\Debug\LoginCharp.FormPrincipal.resources
+D:\setup\estudos\Curso C#\LoginCharp\LoginCharp\obj\Debug\LoginCharp.FormCadastro.resources
